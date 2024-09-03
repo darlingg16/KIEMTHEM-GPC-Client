@@ -1,0 +1,8 @@
+﻿<Config URL="http://46.250.231.42:8887/">
+  <CdnUrl Url="http://46.250.231.42:8887/" />
+  <Application VerText="KT 2009 Beta" VerCode="1" />
+  <Resource VerText="KT 2009 Beta" VerCode="1" />
+  <LoadingResourceScreen FileName="Data/Resources/UI/LoadingResources.unity3d" MD5="d74fd7ea64e7e39d0761f3593d8955582" />
+  <Store AppsIosUrl="" AppsAndroidUrl="" Msg="Đã có phiên bản mới. Vui lòng tải về và cài đè lên phiên bản hiện tại để có được trải nghiệm tốt nhất." />
+  <UpdateInfo PushVoiceUrl="http://46.250.231.42:81/ChatVoiceService.aspx" GetVoiceUrl="http://http://46.250.231.42:81/GetVoiceChat.aspx" ServerListUrl="http://46.250.231.42:81/GetServerListTest.aspx" ServerListUrlBackUp="http://46.250.231.42:81/GetServerListTest.aspx" VerifyAccountSDK="http://46.250.231.42:81/VerifyAccount.aspx" LoginAccountSDK="http://46.250.231.42:81/LoginSDK.aspx" RegisterAccountSDK="http://46.250.231.42:81/RegisterSDK.aspx" FileUpdateUrl="UpdateList.xml" />
+</Config>
