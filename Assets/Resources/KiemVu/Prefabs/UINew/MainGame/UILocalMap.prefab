@@ -11729,7 +11729,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: MainGame/LocalMap.unity3d
   _AtlasName: LocalMap
-  _SpriteName: Icon-co
+  _SpriteName: icon_co
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
