@@ -600,8 +600,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278255607
-  m_fontColor: {r: 0.96996236, g: 1, b: 0, a: 1}
+    rgba: 4278224895
+  m_fontColor: {r: 1, g: 0.5287268, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -751,7 +751,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: MainGame/MainUI.unity3d
   _AtlasName: MainUI
-  _SpriteName: Background_TheLuc
+  _SpriteName: tiao_tidi
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
@@ -1095,7 +1095,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: MainGame/MainUI.unity3d
   _AtlasName: MainUI
-  _SpriteName: Background_HP
+  _SpriteName: tiao_xue
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0

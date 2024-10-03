@@ -346,7 +346,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -198}
+  m_AnchoredPosition: {x: 0, y: -158}
   m_SizeDelta: {x: 1444.4335, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &212750410535092106
@@ -824,7 +824,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: MainGame/Guild_Activity_ColonyDispute_Achievement.unity3d
   _AtlasName: Guild_Activity_ColonyDispute_Achievement
-  _SpriteName: btn_close
+  _SpriteName: Btn_Close
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
@@ -929,7 +929,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 15
   m_fontSizeMax: 60
-  m_fontStyle: 21
+  m_fontStyle: 17
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -1002,7 +1002,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -50, y: -40}
+  m_AnchoredPosition: {x: -98, y: -50}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &212750411134989262
@@ -2318,7 +2318,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 15
   m_fontSizeMax: 60
-  m_fontStyle: 21
+  m_fontStyle: 17
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -2662,7 +2662,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 66.284, y: 93.856}
+  m_AnchoredPosition: {x: -37, y: 108}
   m_SizeDelta: {x: 1406.0665, y: 187.7124}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &212750411717574186
@@ -2837,7 +2837,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 1034.4, y: 224.6}
+  m_AnchoredPosition: {x: 1325, y: 256}
   m_SizeDelta: {x: 627.24, y: 362.89}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &212750411872792140
@@ -3305,7 +3305,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 383.22, y: 224.6}
+  m_AnchoredPosition: {x: 476, y: 256}
   m_SizeDelta: {x: 627.9421, y: 362.89}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &212750412082877421
@@ -3594,7 +3594,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1412, y: 888}
+  m_SizeDelta: {x: 1904, y: 1021}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &212750412157898913
 CanvasRenderer:
@@ -3648,7 +3648,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: MainGame/Guild_Activity_ColonyDispute_Achievement.unity3d
   _AtlasName: Guild_Activity_ColonyDispute_Achievement
-  _SpriteName: Background_TDLT
+  _SpriteName: Background
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0

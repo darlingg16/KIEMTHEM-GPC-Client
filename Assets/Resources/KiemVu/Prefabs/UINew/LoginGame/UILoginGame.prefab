@@ -1819,7 +1819,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: LoginGame.unity3d
   _AtlasName: LoginGame
-  _SpriteName: tabs_dangky_active
+  _SpriteName: btn_dangky
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
@@ -2076,7 +2076,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: LoginGame.unity3d
   _AtlasName: LoginGame
-  _SpriteName: tabs_dangnhap_active
+  _SpriteName: btn_dangnhap
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
