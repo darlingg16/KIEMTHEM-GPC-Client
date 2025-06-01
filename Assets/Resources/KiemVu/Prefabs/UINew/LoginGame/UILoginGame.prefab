@@ -859,8 +859,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 305b1e1ab51522e42a8c930396319290, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _BundleDir: LoginGame.unity3d
-  _AtlasName: LoginGame
+  _BundleDir: LoginScene.unity3d
+  _AtlasName: LoginScene
   _SpriteName: btn_dangnhap
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
@@ -1055,8 +1055,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 305b1e1ab51522e42a8c930396319290, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _BundleDir: LoginGame.unity3d
-  _AtlasName: LoginGame
+  _BundleDir: LoginScene.unity3d
+  _AtlasName: LoginScene
   _SpriteName: input
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
@@ -1480,8 +1480,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 305b1e1ab51522e42a8c930396319290, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _BundleDir: LoginGame.unity3d
-  _AtlasName: LoginGame
+  _BundleDir: LoginScene.unity3d
+  _AtlasName: LoginScene
   _SpriteName: input
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
@@ -1635,7 +1635,7 @@ GameObject:
   - component: {fileID: 6868775879542653732}
   - component: {fileID: 6868775879542653731}
   m_Layer: 5
-  m_Name: UILoginGame
+  m_Name: UILoginScene
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1817,8 +1817,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 305b1e1ab51522e42a8c930396319290, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _BundleDir: LoginGame.unity3d
-  _AtlasName: LoginGame
+  _BundleDir: LoginScene.unity3d
+  _AtlasName: LoginScene
   _SpriteName: btn_dangky
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
@@ -1973,16 +1973,16 @@ MonoBehaviour:
     UIText_Name: {fileID: 0}
     Content: {fileID: 6868775879465724432}
     Name: 
-    BundleDir: LoginGame.unity3d
-    AtlasName: LoginGame
+    BundleDir: LoginScene.unity3d
+    AtlasName: LoginScene
     TabHeaderNormalSprite: tabs_dangnhap
     TabHeaderActiveSprite: tabs_dangnhap_active
   - TabHeader: {fileID: 6868775880264698171}
     UIText_Name: {fileID: 0}
     Content: {fileID: 6868775879707240026}
     Name: 
-    BundleDir: LoginGame.unity3d
-    AtlasName: LoginGame
+    BundleDir: LoginScene.unity3d
+    AtlasName: LoginScene
     TabHeaderNormalSprite: tabs_dangky
     TabHeaderActiveSprite: tabs_dangky_active
 --- !u!1 &6868775880086741910
@@ -2074,8 +2074,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 305b1e1ab51522e42a8c930396319290, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _BundleDir: LoginGame.unity3d
-  _AtlasName: LoginGame
+  _BundleDir: LoginScene.unity3d
+  _AtlasName: LoginScene
   _SpriteName: btn_dangnhap
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
@@ -2492,8 +2492,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 305b1e1ab51522e42a8c930396319290, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _BundleDir: LoginGame.unity3d
-  _AtlasName: LoginGame
+  _BundleDir: LoginScene.unity3d
+  _AtlasName: LoginScene
   _SpriteName: input
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
@@ -3096,8 +3096,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 305b1e1ab51522e42a8c930396319290, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _BundleDir: LoginGame.unity3d
-  _AtlasName: LoginGame
+  _BundleDir: LoginScene.unity3d
+  _AtlasName: LoginScene
   _SpriteName: input
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
@@ -3701,8 +3701,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 305b1e1ab51522e42a8c930396319290, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _BundleDir: LoginGame.unity3d
-  _AtlasName: LoginGame
+  _BundleDir: LoginScene.unity3d
+  _AtlasName: LoginScene
   _SpriteName: btn_dangky
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
@@ -3997,8 +3997,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 305b1e1ab51522e42a8c930396319290, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _BundleDir: LoginGame.unity3d
-  _AtlasName: LoginGame
+  _BundleDir: LoginScene.unity3d
+  _AtlasName: LoginScene
   _SpriteName: input
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0

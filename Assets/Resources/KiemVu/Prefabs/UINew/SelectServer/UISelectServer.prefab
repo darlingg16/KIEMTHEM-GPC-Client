@@ -1048,7 +1048,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: SelectServer.unity3d
   _AtlasName: SelectServer
-  _SpriteName: Btn_Right_Maychu
+  _SpriteName: frame_khuvuc
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
@@ -1787,7 +1787,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: SelectServer.unity3d
   _AtlasName: SelectServer
-  _SpriteName: Btn_Right_Maychu
+  _SpriteName: frame_khuvuc
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
@@ -2223,7 +2223,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: SelectServer.unity3d
   _AtlasName: SelectServer
-  _SpriteName: Btn_Right_Maychu
+  _SpriteName: frame_khuvuc
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
@@ -2393,7 +2393,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: SelectServer.unity3d
   _AtlasName: SelectServer
-  _SpriteName: Btn_Right_Maychu
+  _SpriteName: frame_khuvuc
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
@@ -4428,7 +4428,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: SelectServer.unity3d
   _AtlasName: SelectServer
-  _SpriteName: Btn_Right_Maychu
+  _SpriteName: frame_khuvuc
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
@@ -4734,7 +4734,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: SelectServer.unity3d
   _AtlasName: SelectServer
-  _SpriteName: Btn_Right_Maychu
+  _SpriteName: frame_khuvuc
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
@@ -4904,7 +4904,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: SelectServer.unity3d
   _AtlasName: SelectServer
-  _SpriteName: Btn_Right_Maychu
+  _SpriteName: frame_khuvuc
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
@@ -6271,7 +6271,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: SelectServer.unity3d
   _AtlasName: SelectServer
-  _SpriteName: Btn_Right_Maychu
+  _SpriteName: frame_khuvuc
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
@@ -6506,7 +6506,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: SelectServer.unity3d
   _AtlasName: SelectServer
-  _SpriteName: Btn_Right_Maychu
+  _SpriteName: frame_khuvuc
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
@@ -7397,7 +7397,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: SelectServer.unity3d
   _AtlasName: SelectServer
-  _SpriteName: Btn_Left_MayChu
+  _SpriteName: frame_khuvuc
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
@@ -7795,7 +7795,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: SelectServer.unity3d
   _AtlasName: SelectServer
-  _SpriteName: Background_Maychu
+  _SpriteName: frame_chonmaychu
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
@@ -8424,8 +8424,8 @@ MonoBehaviour:
   UIText_GroupName: {fileID: 5006018098137134497}
   _BundleDir: SelectServer.unity3d
   _AtlasName: SelectServer
-  _NormalSprite: Btn_Left_MayChu
-  _ActiveSprite: Btn_Left_MayChu_Hover
+  _NormalSprite: frame_khuvuc
+  _ActiveSprite: btn_chonkhuvuc
   _NormalColor: {r: 0.81357545, g: 0.8301887, b: 0.69312924, a: 1}
   _ActiveColor: {r: 1, g: 0.99149597, b: 0, a: 1}
 --- !u!1 &5006018097897475698
@@ -8806,10 +8806,10 @@ RectTransform:
   m_Father: {fileID: 5006018097693420680}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 266, y: -121.53338}
-  m_SizeDelta: {x: 168, y: 168}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 832, y: 440.7}
+  m_SizeDelta: {x: 80, y: 80}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5006018098053883191
 CanvasRenderer:
@@ -8907,7 +8907,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: SelectServer.unity3d
   _AtlasName: SelectServer
-  _SpriteName: Btn_DoiTaiKhoan
+  _SpriteName: close
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
@@ -9372,7 +9372,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: SelectServer.unity3d
   _AtlasName: SelectServer
-  _SpriteName: Btn_Right_Maychu
+  _SpriteName: frame_khuvuc
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
@@ -9438,6 +9438,6 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 9.700012, y: 0}
+  m_AnchoredPosition: {x: 9.650024, y: -52}
   m_SizeDelta: {x: 19.3, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}

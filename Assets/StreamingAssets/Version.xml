@@ -1,8 +1,9 @@
-﻿<Config URL="http://46.250.231.42:8887/">
-  <CdnUrl Url="http://46.250.231.42:8887/" />
-  <Application VerText="KT 2009 Beta" VerCode="1" />
-  <Resource VerText="KT 2009 Beta" VerCode="1" />
+﻿<Config URL="https://goldenpeak.id.vn/">
+  <CdnUrl Url="https://goldenpeak.id.vn/" />
+  <Application VerText="KiemTheMobile" VerCode="21" />
+  <Resource VerText="KiemTheMobile" VerCode="128" />
   <LoadingResourceScreen FileName="Data/Resources/UI/LoadingResources.unity3d" MD5="d74fd7ea64e7e39d0761f3593d8955582" />
-  <Store AppsIosUrl="" AppsAndroidUrl="" Msg="Đã có phiên bản mới. Vui lòng tải về và cài đè lên phiên bản hiện tại để có được trải nghiệm tốt nhất." />
-  <UpdateInfo PushVoiceUrl="http://46.250.231.42:81/ChatVoiceService.aspx" GetVoiceUrl="http://http://46.250.231.42:81/GetVoiceChat.aspx" ServerListUrl="http://46.250.231.42:81/GetServerListTest.aspx" ServerListUrlBackUp="http://46.250.231.42:81/GetServerListTest.aspx" VerifyAccountSDK="http://46.250.231.42:81/VerifyAccount.aspx" LoginAccountSDK="http://46.250.231.42:81/LoginSDK.aspx" RegisterAccountSDK="http://46.250.231.42:81/RegisterSDK.aspx" FileUpdateUrl="UpdateList.xml" />
+  <Store AppsIosUrl="http://154.26.131.77" AppsAndroidUrl="http://154.26.131.77" Msg="Đã có phiên bản mới. Vui lòng tải về và cài đè lên phiên bản hiện tại để có được trải nghiệm tốt nhất." />
+  <UpdateInfo PushVoiceUrl="http://154.26.131.77:81/ChatVoiceService.aspx" GetVoiceUrl="http://154.26.131.77:81/GetVoiceChat.aspx" ServerListUrl="http://154.26.131.77:81/GetServerListTest.aspx" ServerListUrlBackUp="http://154.26.131.77:81/GetServerListTest.aspx" VerifyAccountSDK="http://154.26.131.77:81/VerifyAccount.aspx" LoginAccountSDK="http://154.26.131.77:81/LoginSDK.aspx" RegisterAccountSDK="http://154.26.131.77:81/RegisterSDK.aspx" FileUpdateUrl="UpdateList.xml" />
+  <Welcome TitleText="Hỗ Trợ Tân Thủ" NoteText="[color=#E52B50}Chào mừng Huynh/Tỷ đến với Kiếm Thế Kỳ Truyện Mobile] \r\n Tặng huynh tỷ các Giftcode sau: \r\n [color=yellow}1. KIEMTHEKT]\r\n [color=yellow}2. LOANTIN] \r\n [color=yellow}3. GIANGHO] \r\n [color=yellow}4. SAOMAI] \r\n [color=yellow}5. KHAMDA] \r\n [color=yellow}6. DONGHANHVIP] \r\n [color=yellow}7. KINHMACH] \r\n [color=yellow}8. FC45] \r\n [color=yellow}9. HUNGVUONG] \r\n [color=yellow}10. STANHBA] \r\n [color=yellow}Tham gia sự kiện Vào nhóm, Tải Game nhận thêm Giftcode ở Fanpage.] \r\n [color=yellow}Làm nhiệm vụ chính tuyến nhận Set Trang bị 8x 4% và ngựa.] \r\n [color=#E52B50}Chúc Huynh/Tỷ chơi game vui vẻ, PK nảy lửa!"/>
 </Config>

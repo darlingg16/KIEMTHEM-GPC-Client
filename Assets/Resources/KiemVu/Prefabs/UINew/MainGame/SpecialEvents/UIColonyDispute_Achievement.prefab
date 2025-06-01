@@ -346,7 +346,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -158}
+  m_AnchoredPosition: {x: 0, y: -152}
   m_SizeDelta: {x: 1444.4335, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &212750410535092106
@@ -389,8 +389,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4291755519
-  m_fontColor: {r: 1, g: 0.99025327, b: 0.8066038, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -824,7 +824,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: MainGame/Guild_Activity_ColonyDispute_Achievement.unity3d
   _AtlasName: Guild_Activity_ColonyDispute_Achievement
-  _SpriteName: Btn_Close
+  _SpriteName: btn_close
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
@@ -1002,7 +1002,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -98, y: -50}
+  m_AnchoredPosition: {x: -50, y: -50}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &212750411134989262
@@ -3648,7 +3648,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BundleDir: MainGame/Guild_Activity_ColonyDispute_Achievement.unity3d
   _AtlasName: Guild_Activity_ColonyDispute_Achievement
-  _SpriteName: Background
+  _SpriteName: "background-Chie\u0302\u0301n-Ba\u0301o"
   _PixelPerfect: 0
   _PixelPerfectOnPlay: 0
   _LoadImmedatelly: 0
